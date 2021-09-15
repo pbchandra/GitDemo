@@ -7,13 +7,9 @@ import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
 public class RestAPITest {
-
-	
-	
-	
 	@Test
 	public void post() {
-		System.out.println("post");
+		System.out.println("updated");
 	}
 	
 	
