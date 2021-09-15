@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class RestAPITest {
 	@Test
 	public void post() {
-		System.out.println("updated");
+		System.out.println("updated_developbranh");
 	}
 	
 	
