@@ -25,7 +25,7 @@ public class RestAPITest {
 		log.debug("this is debug message");
 		log.error("the is log of error");
 		log.fatal("this is log fatal");
-		log.info("this is info message");
+		//log.info("this is info message");
 	
 	}
 	
